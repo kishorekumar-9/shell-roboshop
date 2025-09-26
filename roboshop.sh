@@ -3,7 +3,7 @@
 
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-075b1761b72424b2a" #Replace with your SG ID
-INSTANCES=("mongodb" "redis" "rabbitmq" "catalogue" "user" "cart" "shipping" "payment" "dispatch" "frontend")
+INSTANCES=("mongodb" "redis" "rabbitmq" "catalogue" "user" "cart" "shipping")
 ZONE_ID= "Z0141378IIM5EWRHRZJ0"
 DOMAIN_NAME="kishore7.space"
 
